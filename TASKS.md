@@ -58,12 +58,12 @@ Track progress by checking items as you complete them. Keep tasks short and acti
 - [x] Error boundaries, loading skeletons, empty states
 - [x] Accessibility pass (touch targets ≥48px)
 
-## M8 — Deploy
-- [ ] Push repo to GitHub
-- [ ] Connect repo to Vercel (root: `web/`)
-- [ ] Set env vars in Vercel (Prod + Preview)
-- [ ] Configure Supabase Auth redirect (Vercel domain)
-- [ ] Deploy and run smoke test
+## M8 — Deploy ✅ COMPLETED
+- [x] Push repo to GitHub
+- [x] Connect repo to Vercel (root: `web/`)
+- [x] Set env vars in Vercel (Prod + Preview)
+- [x] Configure Supabase Auth redirect (Vercel domain)
+- [x] Deploy and run smoke test
 
 ## Technology Stack Changes
 - ✅ **Migrated from Vite to Next.js 15**: Better SSR, built-in PWA, App Router
